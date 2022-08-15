@@ -1,4 +1,5 @@
 from lib2to3.pgen2.token import OP
+from optparse import Option
 from typing import Optional
 from pydantic import BaseModel, EmailStr, Field
 
@@ -6,12 +7,16 @@ from pydantic import BaseModel, EmailStr, Field
 class StationSchema(BaseModel):
     name: str = Field(...)
     fileName: str = Field('default.csv')
+    lat: float = Field(37.0902)
+    lng: float = Field(95.7129)
 
     class Config:
         schema_extra = {
             "example": {
                 "name": "Cierro Prieto",
-                "fileName": "cierroPrieto.csv"
+                "fileName": "cierroPrieto.csv",
+                "lat" : 37.0902,
+                "lng" : 95.7129,
             }
         }
 
@@ -19,12 +24,16 @@ class StationSchema(BaseModel):
 class UpdateStationModel(BaseModel):
     name: Optional[str]
     fileName: Optional[str]
+    lat: Optional[float]
+    lng: Optional[float]
 
     class Config:
         schema_extra = {
             "example": {
                 "name": "Cierro Dorado",
-                "fileName" : "cierroDorado.csv"
+                "fileName" : "cierroDorado.csv",
+                "lat" : 37.0902,
+                "lng" : 95.7129,
             }
         }
 

@@ -18,6 +18,8 @@ def station_helper(station) -> dict:
         "id": str(station["_id"]),
         "name": str(station["name"]),
         "fileName": str(station["fileName"]),
+        "lat": float(station["lat"]),
+        "lng": float(station["lng"]),
     }
 
 #Retrieve all stations
