@@ -39,18 +39,18 @@ async def get_stations():
 async def get_station_data(id):
     station = await retrieve_station(id)
     if station:
-        return ResponseModel(station, "Student data retrieved succesfully")
+        return ResponseModel(station, "Station data retrieved succesfully")
     return ErrorResponseModel("An error ocurred", 404, "Station does not exist")
 
 #Route to update station
 @router.put("/{id}")
-async def update_student_data(id: str, req: UpdateStationModel = Body(...)):
+async def update_station_data(id: str, req: UpdateStationModel = Body(...)):
     req = {k: v for k, v in req.dict().items() if v is not None}
     updated_station = await update_station(id, req)
     if updated_station:
         return ResponseModel(
-            "Student with ID: {id} has been updated succesfully".format(id),
-            "Student updated succesfully"
+            "Station with ID: {id} has been updated succesfully".format(id),
+            "Station updated succesfully"
         )
     return ErrorResponseModel(
         "An error ocurred",
@@ -59,13 +59,13 @@ async def update_student_data(id: str, req: UpdateStationModel = Body(...)):
     )
 
 #Route to delete station
-@router.delete("/{id}", response_description="Student deleted from the database")
+@router.delete("/{id}", response_description="Station deleted from the database")
 async def delete_station_data(id: str):
-    deleted_student = await delete_station(id)
-    if deleted_student:
+    deleted_station = await delete_station(id)
+    if deleted_station:
         return ResponseModel(
-            "Student with ID: {id} has been deleted".format(id)
+            "Station with ID: {id} has been deleted".format(id)
         )
     return ErrorResponseModel(
-        "An error has ocurred", 404, "Student with ID: {id} does not exist".format(id)
+        "An error has ocurred", 404, "Station with ID: {id} does not exist".format(id)
     )

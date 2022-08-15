@@ -7,8 +7,8 @@ load_dotenv()
 
 MONGO_DETAILS = os.getenv('MONGO_URI')
 client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_DETAILS)
-database = client.droughTracker
-station_collection = database.get_collection("station_collection")
+database = client.DroughTracker
+station_collection = database.get_collection("stations")
 
 
 # helpers
@@ -54,7 +54,7 @@ async def update_station(id:str, data: dict) -> dict:
             return True
         return False
 
-#Delete student with ID
+#Delete station with ID
 async def delete_station(id:str):
     station = await station_collection.find_one({"_id": ObjectId(id)})
     if station:
