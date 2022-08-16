@@ -1,3 +1,4 @@
+import csv
 from fastapi import APIRouter, Body
 from fastapi.encoders import jsonable_encoder
 from requests import Response
@@ -40,6 +41,16 @@ async def get_station_data(id):
     station = await retrieve_station(id)
     if station:
         return ResponseModel(station, "Station data retrieved succesfully")
+    return ErrorResponseModel("An error ocurred", 404, "Station does not exist")
+
+#Route to get predictions for a station with id
+@router.get("/prediction/{id}", response_description="Predictions for station")
+async def get_prediction(id: str):
+    station = await retrieve_station(id)
+    if station:
+        dataSet = []
+        #Code to read .csv and invoke ANN
+        return #Here return prediction
     return ErrorResponseModel("An error ocurred", 404, "Station does not exist")
 
 #Route to update station
