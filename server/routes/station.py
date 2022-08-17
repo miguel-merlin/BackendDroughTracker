@@ -8,6 +8,7 @@ from server.database import (
     add_station,
     delete_station,
     retrieve_station,
+    retrieve_stations_state,
     update_station,
 )
 
@@ -26,6 +27,17 @@ async def add_station_data(station: StationSchema = Body(...)):
     station = jsonable_encoder(station)
     new_station = await add_station(station)
     return ResponseModel(new_station, "Station added succesfuly.")
+
+#Route to get station by state
+@router.get("/stations/{state}")
+async def get_stations_state(state):
+    stations = await retrieve_stations_state(state)
+    if stations:
+        return ResponseModel(stations, "Stations by state retrieved succesfully")
+
+#Route to get states
+
+
 
 #Route to get all stations
 @router.get("/", response_description="Stations retrieved")
@@ -52,6 +64,7 @@ async def get_prediction(id: str):
         #Code to read .csv and invoke ANN
         return #Here return prediction
     return ErrorResponseModel("An error ocurred", 404, "Station does not exist")
+
 
 #Route to update station
 @router.put("/{id}")

@@ -27,33 +27,32 @@ def station_helper(station) -> dict:
     }
 
 # Retrieve all stations
-
-
 async def retrieve_stations():
     stations = []
     async for station in station_collection.find():
         stations.append(station_helper(station))
     return stations
 
+#Retrive all stations by state
+async def retrieve_stations_state(state: str) -> dict:
+    stations = []
+    async for station in station_collection.find({"state": state}):
+        stations.append(station_helper(station))
+    return stations
+
 # Add a station
-
-
 async def add_station(station_data: dict) -> dict:
     station = await station_collection.insert_one(station_data)
     new_station = await station_collection.find_one({"_id": station.inserted_id})
     return station_helper(new_station)
 
 # Retrieve a station by ID
-
-
 async def retrieve_station(id: str) -> dict:
     station = await station_collection.find_one({"_id": ObjectId(id)})
     if station:
         return station_helper(station)
 
 # Update a station with ID
-
-
 async def update_station(id: str, data: dict) -> dict:
     if len(data) < 1:
         return False
