@@ -74,8 +74,6 @@ async def update_station(id: str, data: dict) -> dict:
         return False
 
 # Delete station with ID
-
-
 async def delete_station(id: str):
     station = await station_collection.find_one({"_id": ObjectId(id)})
     if station:
