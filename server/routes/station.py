@@ -4,6 +4,7 @@ from fastapi.encoders import jsonable_encoder
 from requests import Response
 
 from server.database import (
+    retrieve_states,
     retrieve_stations,
     add_station,
     delete_station,
@@ -28,15 +29,20 @@ async def add_station_data(station: StationSchema = Body(...)):
     new_station = await add_station(station)
     return ResponseModel(new_station, "Station added succesfuly.")
 
-#Route to get station by state
-@router.get("/stations/{state}")
+#Route to get stations by state
+@router.get("/stations/{state}", response_description="Stations by state retrieved")
 async def get_stations_state(state):
     stations = await retrieve_stations_state(state)
     if stations:
         return ResponseModel(stations, "Stations by state retrieved succesfully")
 
 #Route to get states
-
+@router.get("/states", response_description="States retrieved")
+async def get_states():
+    states = await retrieve_states()
+    if states:
+        return ResponseModel(states, "States retrieved succesfully")
+    return ResponseModel(states, "Empty list returned")
 
 
 #Route to get all stations

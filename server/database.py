@@ -33,12 +33,20 @@ async def retrieve_stations():
         stations.append(station_helper(station))
     return stations
 
-#Retrive all stations by state
+#Retrieve all stations by state
 async def retrieve_stations_state(state: str) -> dict:
     stations = []
     async for station in station_collection.find({"state": state}):
         stations.append(station_helper(station))
     return stations
+
+#Get states
+async def retrieve_states():
+    states = []
+    async for station in station_collection.find():
+        states.append(station_helper(station)["state"])
+    states = list(dict.fromkeys(states))
+    return states
 
 # Add a station
 async def add_station(station_data: dict) -> dict:
