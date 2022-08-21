@@ -1,0 +1,416 @@
+﻿ LAT      LON      ALT   CLAVE     EDO  ESTACION                                  INICIO
+ 22.01  -102.20     1925    1004    AGS  CAÑADA HONDA                             1970-03
+ 21.78  -102.37     1820    1005    AGS  PRESA EL NIAGARA                         1957-04
+ 22.20  -102.14     2310    1008    AGS  PUERTO DE LA CONCEPCION                  1959-08
+ 21.79  -102.80     1600    1012    AGS  PRESA MEDIA LUNA                         1970-08
+ 21.92  -101.97     2015    1015    AGS  PALO ALTO                                1967-06
+ 22.23  -102.44     2110    1017    AGS  PRESA POTRERILLOS                        1951-01
+ 22.14  -102.42     2050    1018    AGS  PRESA PLUTARCO ELIAS CALLES              1951-01
+ 22.13  -102.36     2030    1019    AGS  PRESA JOCOQUE                            1951-01
+ 22.00  -102.67     1820    1020    AGS  PRESA LA CODORNIZ                        1963-08
+ 21.74  -102.18     1965    1022    AGS  SAN BARTOLO                              1951-01
+ 22.14  -102.07     1970    1028    AGS  VILLA JUAREZ                             1951-01
+ 21.90  -102.31     1865    1030    AGS  AGUASCALIENTES                           1951-01
+ 22.02  -102.00     2010    1031    AGS  EL NOVILLO                               1972-05
+ 21.90  -102.00     2015    1033    AGS  LOS CONOS                                1971-05
+ 21.92  -102.34     2000    1034    AGS  SANDOVALES                               1972-04
+ 21.87  -102.35     1845    1076    AGS  LOS NEGRITOS                             1979-12
+ 22.36  -102.30     2000    1088    AGS  COSIO                                    1978-08
+ 32.66  -115.47        4    2033     BC  MEXICALI (DGE)                           1951-01
+ 32.72  -114.73       38    2037     BC  PRESA MORELOS                            1961-01
+ 32.45  -116.91      120    2038     BC  PRESA RODRIGUEZ                          1951-01
+ 31.03  -114.84       22    2046     BC  SAN FELIPE                               1951-01
+ 22.88  -109.91       15    3005    BCS  CABO SAN LUCAS                           1951-01
+ 23.60  -109.59       15    3030    BCS  LA RIBERA                                1951-01
+ 26.01  -111.34       10    3035    BCS  LORETO (DGE)                             1951-01
+ 26.89  -111.98       10    3038    BCS  MULEGE                                   1954-05
+ 25.03  -111.67       50    3068    BCS  VILLA CONSTITUCION                       1957-03
+ 27.65  -113.44       80    3073    BCS  GUSTAVO DIAZ ORDAZ                       1971-10
+ 24.13  -110.34       16    3074    BCS  LA PAZ (DGE)                             1951-01
+ 18.18   -91.05       25    4004   CAMP  CANDELARIA (SMN)                         1951-11
+ 18.65   -91.76        5    4007   CAMP  EL CARMEN (SMN)                          1951-08
+ 19.75   -89.84       25    4013   CAMP  HOPELCHEN                                1950/05
+ 18.25   -92.09        4    4024   CAMP  PALIZADA                                 1952/09
+ 18.97   -91.18        5    4029   CAMP  SABANCUY                                 1953-11
+ 19.84   -90.53        5    4038   CAMP  CAMPECHE (DGE)                           1952-01
+ 19.36   -90.72       10    4041   CAMP  CHAMPOTON (DGE)                          1954-01
+ 19.61   -90.21       30    4058   CAMP  NOH YAXCHE                               1978/08
+ 19.66   -89.85       60    4066   CAMP  XCUPIL                                   1972/01
+ 28.33  -100.83      374    5002   COAH  ALLENDE (SMN)                            1951-01
+ 26.84  -100.76      582    5005   COAH  CANDELA                                  1967-06
+ 25.44  -102.17     1500    5024   COAH  PARRAS                                   1961-01
+ 25.54  -103.47     1140    5026   COAH  PRESA COYOTE                             1951-01
+ 25.07  -103.28     1300    5029   COAH  PRESA LA FLOR                            1963-08
+ 27.52  -100.62      272    5030   COAH  PRESA VENUSTIANO CARRANZA                1951-03
+ 27.42  -101.00      360    5031   COAH  PROGRESO                                 1951-01
+ 27.85  -101.12      339    5033   COAH  SABINAS (DGE)                            1953-05
+ 25.27  -100.58     2170    5035   COAH  SAN ANTONIO LAS ALAZANAS (DGE)           1954-08
+ 25.76  -103.00     1100    5036   COAH  SAN PEDRO                                1963-08
+ 27.28  -103.70     1256    5039   COAH  SIERRA MOJADA                            1960-08
+ 26.99  -102.07      740    5044   COAH  CUATRO CIENEGAS (SMN)                    1951-01
+ 26.90  -101.42      586    5047   COAH  MONCLOVA                                 1951-06
+ 25.43  -101.00     1589    5048   COAH  SALTILLO (DGE)                           1951-01
+ 29.04  -100.96      340    5086   COAH  PRESA SAN MIGUEL                         1964-01
+ 29.45  -101.06      280    5187   COAH  REPRESA LA AMISTAD                       1961-01
+ 18.82  -103.63       24    6003    COL  CALLEJONES                               1951-01
+ 19.34  -103.61      950    6009    COL  CUAUHTEMOC (DGE)                         1960-01
+ 19.36  -103.79      450    6014    COL  PEÑITAS                                  1957-10
+ 19.11  -103.88      200    6017    COL  MADRID                                   1970-03
+ 19.05  -104.30      3.4    6018    COL  MANZANILLO                               1981-01
+ 18.91  -103.87       33    6058    COL  TECOMAN (DGE)                            1951-01
+ 16.55   -92.80      420    7003   CHIS  ACALA                                    1962-05
+ 16.94   -93.10      405    7035   CHIS  CHICOASEN (CFE)                          1961-07
+ 16.97   -93.10      211    7069   CHIS  GRIJALVA                                 1965-01
+ 15.14   -92.49       85    7077   CHIS  HUIXTLA                                  1954-07
+ 16.69   -93.56      480    7102   CHIS  LAS FLORES                               1951-01
+ 15.85   -91.97      582    7135   CHIS  PUENTE CONCORDIA (CFE)                   1961-08
+ 17.12   -93.33      280    7178   CHIS  YAMONHO                                  1967-11
+ 16.25   -92.13     1596    7205   CHIS  COMITAN (DGE)                            1961-01
+ 15.75   -92.27      550    7224   CHIS  CHICOMUSELO                              1975-07
+ 15.90   -92.93      530    7226   CHIS  REFORMA II                               1975-06
+ 28.77  -107.26     2017    8004   CHIH  BACHINIVA                                1951-01
+ 27.14  -104.91     1380    8029   CHIH  JIMENEZ (SMN)                            1951-01
+ 29.57  -104.41      800    8031   CHIH  OJINAGA (SMN)                            1951-01
+ 27.75  -107.64     2348    8038   CHIH  CREEL                                    1952-12
+ 28.19  -105.46     1173    8044   CHIH  DELICIAS (DGE)                           1951-01
+ 28.98  -105.28     1080    8049   CHIH  LUIS L. LEON                             1964-10
+ 29.85  -107.46     2450    8059   CHIH  EL TINTERO                               1951-01
+ 26.82  -107.07     2395    8071   CHIH  GUACHOCHI                                1953-01
+ 29.13  -108.30     1385    8074   CHIH  GUAPOCA (CFE)                            1961-08
+ 26.68  -107.32      685    8075   CHIH  GUERACHIC                                1953-01
+ 26.92  -105.68     1770    8078   CHIH  PRESA PARRAL                             1951-01
+ 27.54  -105.41     1323    8085   CHIH  LA BOQUILLA                              1951-01
+ 28.95  -107.82     1932    8142   CHIH  TEMOSACHI                                1982-01
+ 27.45  -105.81     1350    8153   CHIH  VALLE DE ZARAGOZA                        1971-07
+ 26.74  -105.16     1516    8156   CHIH  VILLA CORONADO                           1964-06
+ 27.70  -105.18     1250    8162   CHIH  CIUDAD CAMARGO                           1960-01
+ 28.63  -106.08     1428    8165   CHIH  CHIHUAHUA                                1972-01
+ 27.39  -108.54     1640    8167   CHIH  CHINIPAS (SMN)                           1951-01
+ 26.11  -106.97     2279    8172   CHIH  GUADALUPE Y CALVO (SMN)                  1958-07
+ 30.41  -107.91     1473    8184   CHIH  NUEVO CASAS GRANDES (DGE)                1951-01
+ 27.17  -107.92      763    8192   CHIH  URIQUE                                   1969-01
+ 28.17  -105.63     1300    8202   CHIH  PRESA FRANCISCO I. MADERO                1951-01
+ 31.74  -106.49     1135    8213   CHIH  CIUDAD JUAREZ                            1986-01
+ 29.25  -108.09     2212    8219   CHIH  PEÑITAS                                  1972-12
+ 27.92  -107.90     2160    8266   CHIH  BATOVIRA                                 1975-05
+ 26.48  -106.39     2740    8267   CHIH  EL VERGEL                                1975-02
+ 28.78  -105.96     1336    8270   CHIH  LA MESA                                  1975-09
+ 28.50  -107.47     2000    8326   CHIH  PRESA ABRAHAM GONZALEZ                   1963-01
+ 30.05  -106.90     1450    8332   CHIH  LAS LAJAS                                1983-07
+ 27.03  -107.74      570    8341   CHIH  BATOPILAS                                1983-01
+ 28.18  -108.21     2000    8352   CHIH  BASASEACHIC                              1983-07
+ 28.42  -108.42     1790    8353   CHIH  YEPACHIC                                 1992-08
+ 19.30   -99.18     2380    9020     DF  DESVIACION ALTA AL PEDREGAL              1952-01
+ 19.47   -99.08     2240    9043     DF  SAN JUAN DE ARAGON                       1953-07
+ 26.32  -104.35     1188   10005    DGO  CEBALLOS                                 1956-03
+ 24.87  -103.70     1600   10012    DGO  CUENCAME                                 1951-01
+ 25.93  -105.95     2300   10029    DGO  GUANACEVI (SMN)                          1951-01
+ 24.44  -104.12     2000   10030    DGO  GUADALUPE VICTORIA  (DGE)                1963-08
+ 25.22  -105.45     1670   10035    DGO  J. SALOME ACOSTA                         1969-08
+ 25.83  -103.85     1300   10045    DGO  MAPIMI                                   1963-08
+ 25.23  -104.11     1300   10049    DGO  NAZAS                                    1965-11
+ 24.21  -104.66     1920   10054    DGO  PEÑA DEL AGUILA                          1963-08
+ 23.63  -104.06     1913   10057    DGO  PRESA SANTA ELENA                        1970-11
+ 25.57  -104.29     1700   10072    DGO  SAN PEDRO DEL GALLO                      1951-01
+ 25.95  -105.37     1700   10075    DGO  SANTA MARIA DEL ORO                      1967-11
+ 23.90  -104.60     1900   10076    DGO  SANTIAGO BAYACORA                        1963-08
+ 26.08  -105.57      900   10078    DGO  SARDINAS                                 1970-06
+ 24.94  -106.98      250   10082    DGO  TAMAZULA                                 1952-01
+ 26.11  -103.44     1100   10085    DGO  TLAHUALILO                               1963-08
+ 24.52  -104.78     2000   10090    DGO  CANATLAN (DGE)                           1963-08
+ 25.05  -105.42     1740   10100    DGO  SANTIAGO PAPASQUIARO (SMN)               1951-01
+ 25.55  -103.52     1140   10108    DGO  CIUDAD LERDO (DGE)                       1960-01
+ 25.42  -104.28     1500   10132    DGO  SAN LUIS DEL CORDERO                     1976-09
+ 25.50  -105.25     1580   10149    DGO  GENERAL ESCOBEDO                         1978-11
+ 20.45  -101.53     1715   11001    GTO  ABASOLO                                  1951-01
+ 20.04  -100.72     1850   11002    GTO  ACAMBARO                                 1951-01
+ 20.50  -101.63     1695   11003    GTO  AGUA TIBIA                               1951-01
+ 20.54  -100.69     1771   11005    GTO  APASEO                                   1961-01
+ 20.46  -100.62     1850   11006    GTO  APASEO EL ALTO                           1961-01
+ 20.62  -101.67     1755   11014    GTO  CUERAMARO                                1962-05
+ 21.16  -100.93     1937   11017    GTO  DOLORES HIDALGO (SMN)                    1951-07
+ 21.17  -101.68     1840   11020    GTO  EL PALOTE                                1961-01
+ 20.67  -101.35     1724   11028    GTO  IRAPUATO                                 1951-01
+ 20.14  -100.52     1787   11031    GTO  JERECUARO                                1957-09
+ 20.84  -100.82     1850   11033    GTO  LA BEGOÑA                                1961-01
+ 20.67  -101.84     1741   11036    GTO  ADJUNTAS                                 1951-01
+ 21.19  -101.66     1865   11040    GTO  LOS CASTILLOS                            1951-01
+ 21.65  -101.48     1238   11050    GTO  OCAMPO                                   1951-01
+ 21.10  -100.88     1915   11051    GTO  PEÑUELITAS                               1961-01
+ 20.52  -101.11     1722   11052    GTO  PERICOS                                  1951-01
+ 20.21  -100.89     1749   11060    GTO  SALVATIERRA                              1951-01
+ 21.30  -100.52     1933   11068    GTO  SAN LUIS DE LA PAZ                       1951-01
+ 20.22  -101.13     1761   11071    GTO  SANTA MARIA (DGE)                        1951-01
+ 20.30  -101.07     1726   11072    GTO  SANTA RITA                               1961-01
+ 20.05  -100.68     1903   11076    GTO  PRESA SOLIS                              1961-01
+ 20.29  -100.76     1755   11078    GTO  TARIMORO                                 1966-08
+ 20.39  -101.18     1748   11079    GTO  VALLE DE SANTIAGO                        1951-01
+ 21.01  -101.27     1999   11094    GTO  GUANAJUATO (DGE)                         1969-01
+ 20.56  -101.20     1723   11096    GTO  SALAMANCA                                1951-01
+ 20.55  -100.58     1790   11105    GTO  AMECHE                                   1974-04
+ 20.87  -101.24     1850   11124    GTO  EL CHAPIN                                1977-08
+ 20.72  -101.37     1788   11134    GTO  EL CONEJO                                1977-08
+ 20.86  -101.27     1800   11137    GTO  PRESA LA PURISIMA                        1977-10
+ 16.97   -99.10      200   12012    GRO  AYUTLA (CFE)                             1955-12
+ 18.36  -100.66      250   12019    GRO  CIUDAD ALTAMIRANO                        1954-03
+ 17.38  -101.05       40   12025    GRO  COYUQUILLA                               1953-06
+ 18.31   -99.33      975   12046    GRO  HUITZUCO (SMN)                           1951-01
+ 16.68   -98.40      300   12061    GRO  OMETEPEC (CFE)                           1961-09
+ 17.79   -99.98     1450   12089    GRO  TLACOTEPEC                               1951-05
+ 17.13  -100.52       20   12099    GRO  SAN JERONIMO                             1960-06
+ 17.78   -98.75     1600   12119    GRO  OLINALA (DGE)                            1971-11
+ 17.57   -99.42     1145   12125    GRO  TIXTLA (DGE)                             1959-01
+ 17.64  -101.55       20   12127    GRO  ZIHUATANEJO                              1964-02
+ 18.42  -101.01      300   12147    GRO  PRESA LA CALERA                          1975-04
+ 17.21  -100.42      220   12161    GRO  ATOYAC (DGE)                             1975-02
+ 17.01  -100.09       40   12219    GRO  LAGUNA DE COYUCA                         1981-09
+ 21.14   -98.42      140   13011    HGO  HUEJUTLA                                 1969-01
+ 20.37   -99.65     2200   13012    HGO  HUICHAPAN                                1951-01
+ 20.48   -99.22     1700   13013    HGO  IXMIQUILPAN (SMN)                        1951-01
+ 20.23   -99.22     1990   13018    HGO  MIXQUIAHUALA (SMN)                       1951-01
+ 21.17   -98.61      210   13021    HGO  SAN FELIPE ORIZATLAN (SMN)               1951-01
+ 20.08   -98.36     2214   13041    HGO  TULANCINGO (OBS)                         1951-01
+ 20.65   -98.66     1050   13042    HGO  ZACUALTIPAN (SMN)                        1951-01
+ 20.27   -98.94     1990   13060    HGO  ACTOPAN                                  1953-10
+ 19.94   -99.28     2162   13068    HGO  EL SALTO                                 1953-02
+ 20.16   -99.36     2020   13080    HGO  PRESA ENDHO                              1970-12
+ 21.56  -102.44     1745   14006    JAL  AJOJUCAR                                 1951-01
+ 20.55  -104.05     1230   14009    JAL  AMECA                                    1951-01
+ 20.40  -103.14     1521   14016    JAL  ATEQUIZA                                 1951-01
+ 21.83  -103.78      963   14023    JAL  BOLAÑOS                                  1951-01
+ 19.99  -105.13       35   14024    JAL  CAJON DE PEÑA                            1954-08
+ 19.24  -104.56       20   14028    JAL  CIHUATLAN (DGE)                          1951-01
+ 19.72  -103.46     1515   14030    JAL  CIUDAD GUZMAN                            1951-01
+ 21.05  -103.44     1000   14038    JAL  CUIXTLA                                  1955-01
+ 20.29  -103.19     1527   14040    JAL  CHAPALA                                  1951-01
+ 20.68  -103.35     1583   14066    JAL  GUADALAJARA (DGE)                        1952-01
+ 20.29  -102.71     1530   14075    JAL  JAMAY                                    1961-01
+ 20.59  -103.86     1260   14089    JAL  ING. SANTIAGO CAMARENA (LA VEGA)         1955-01
+ 21.19  -104.07      420   14107    JAL  LA YESCA                                 1951-01
+ 20.44  -103.63     1400   14113    JAL  HURTADO                                  1958-01
+ 20.64  -103.31     1540   14132    JAL  TLAQUEPAQUE                              1952-01
+ 20.03  -104.30     1330   14139    JAL  TACOTAN                                  1951-01
+ 22.16  -103.23     1710   14144    JAL  TENASCO                                  1958-01
+ 21.43  -102.57     1740   14145    JAL  TEOCALTICHE (DGE)                        1951-01
+ 20.89  -103.67      790   14162    JAL  SANTA ROSA                               1958-01
+ 19.21  -102.86      430   14177    JAL  LOS OLIVOS                               1961-11
+ 21.28  -102.50     1750   14266    JAL  SAN GASPAR DE LOS REYES                  1961-01
+ 21.35  -101.85     1940   14320    JAL  LA SAUCEDA                               1981-01
+ 20.67  -103.29     1550   14329    JAL  LA EXPERIENCIA                           1978-01
+ 20.60  -105.22       53   14339    JAL  EL CUALE                                 1981-01
+ 19.91  -104.06      824   14343    JAL  BASILIO BADILLO                          1980-01
+ 22.40  -103.73     1352   14346    JAL  BOCAS                                    1981-01
+ 19.46   -99.78     2557   15010    MEX  ATOTONILCO                               1961-01
+ 19.58   -98.91     2250   15044    MEX  LA GRANDE                                1961-01
+ 19.18  -100.22     1645   15046    MEX  PRESA COLORINES                          1952-05
+ 19.56   -99.22     2270   15047    MEX  LAS ARBOLEDAS                            1969-01
+ 19.48   -99.22     2226   15059    MEX  MOLINO BLANCO                            1961-01
+ 19.53   -98.91     2244   15083    MEX  SAN ANDRES                               1961-01
+ 19.48   -99.71     2560   15086    MEX  SAN BERNABE                              1961-01
+ 19.29   -99.71     2726   15126    MEX  TOLUCA (OBS)                             1968-01
+ 19.47   -99.25     2325   15127    MEX  TOTOLICA SAN BARTOLO                     1961-01
+ 19.48   -98.89     2250   15170    MEX  CHAPINGO (DGE)                           1952-01
+ 20.15   -99.91     2320   15189    MEX  LA CONCEPCION                            1973-02
+ 19.84   -99.41     2235   15193    MEX  PRESA TAXHIMAY                           1951-01
+ 19.43   -99.61     2583   15201    MEX  TROJES                                   1974-06
+ 19.34   -99.68     2630   15203    MEX  CALIXTLAHUACA                            1975-06
+ 18.93   -99.93     2383   15301    MEX  TEXCALTITLAN                             1979-09
+ 19.54  -100.62     2520   16002   MICH  AGOSTITLAN (CFE)                         1951-01
+ 19.09  -102.35      320   16007   MICH  APATZINGAN (SMN)                         1951-01
+ 20.32  -101.46     1694   16017   MICH  CASA BLANCA                              1951-01
+ 19.69  -100.55     2020   16020   MICH  CIUDAD HIDALGO (DGE)                     1959-01
+ 20.26  -102.59     1524   16030   MICH  CUMUATO                                  1951-07
+ 18.46  -100.89     2630   16059   MICH  LA CAIMANERA (CFE)                       1961-01
+ 20.15  -102.77     1523   16063   MICH  LA PALMA                                 1951-05
+ 18.05  -102.20       92   16070   MICH  JOSE MARIA MORELOS Y PAVON (LA VILLITA)  1951-03
+ 18.85  -102.13      207   16074   MICH  LOS PANCHES (CFE)                        1964-11
+ 18.54  -101.10      199   16075   MICH  LOS PINZANES                             1964-10
+ 19.69  -101.18     1908   16081   MICH  MORELIA                                  1951-01
+ 19.52  -101.61     2140   16087   MICH  PATZCUARO                                1969-01
+ 20.30  -102.44     1533   16093   MICH  PRESA GONZALO                            1969-01
+ 20.00  -100.23     2380   16129   MICH  TEPUXTEPEC                               1951-01
+ 19.81  -101.80     1986   16142   MICH  ZACAPU                                   1968-08
+ 18.92   -99.23     1510   17004    MOR  CUERNAVACA (DGE)                         1955-04
+ 18.81   -98.95     1302   17005    MOR  CUAUTLA (DGE)                            1955-04
+ 18.78   -99.32     1105   17006    MOR  EL RODEO                                 1955-04
+ 18.61   -99.42      920   17007    MOR  HUAJINTLAN                               1951-01
+ 18.85   -99.23     1290   17014    MOR  TEMIXCO                                  1957-04
+ 18.60   -98.84     1160   17015    MOR  TEPALCINGO                               1955-10
+ 18.69   -98.82     2290   17028    MOR  JONACATEPEC                              1951-01
+ 19.06   -99.27     1049   17047    MOR  HUITZILAC                                1961-12
+ 22.49  -105.35       31   18001    NAY  ACAPONETA                                1951-01
+ 21.84  -105.12       27   18004    NAY  CAPOMAL                                  1957-05
+ 22.25  -104.51      411   18018    NAY  JESUS MARIA                              1963-06
+ 20.89  -105.14       56   18021    NAY  LAS GAVIOTAS                             1955-05
+ 21.96  -105.14       24   18032    NAY  SAN PEDRO                                1951-01
+ 21.94  -104.50      277   18063    NAY  CHAPALACANA                              1975-04
+ 22.37  -105.25       76   18068    NAY  PAJARITOS                                1978-03
+ 24.10   -99.83     1080   19005     NL  ARAMBERRI II                             1970-09
+ 24.99   -99.74      460   19007     NL  CABEZONES                                1960-01
+ 24.94   -99.39      270   19011     NL  CERRO PRIETO                             1958-05
+ 25.95  -100.17      380   19012     NL  CIENEGA DE FLORES                        1951-01
+ 25.72   -99.26      145   19016     NL  EL CUCHILLO                              1951-01
+ 27.24  -100.13      194   19024     NL  ANAHUAC                                  1951-01
+ 24.87   -99.58      350   19035     NL  CAMACHO                                  1951-01
+ 25.50   -99.53      230   19039     NL  LAS ENRAMADAS                            1951-01
+ 23.42  -100.12     1678   19046     NL  MIER Y NORIEGA (SMN)                     1951-01
+ 25.68  -100.27      495   19049     NL  MONTERREY                                1951-01
+ 25.03  -100.55     1887   19057     NL  SAN RAFAEL                               1956-06
+ 25.43  -100.13      460   19069     NL  LA BOCA                                  1972-04
+ 16.64   -95.96      638   20009    OAX  BOQUILLA NUMERO UNO                      1951-01
+ 17.80   -96.97      620   20025    OAX  SAN JUAN BAUTISTA CUICATLAN              1951-01
+ 16.55   -95.08      160   20039    OAX  IXTEPEC                                  1951-01
+ 17.87   -96.20       30   20042    OAX  SANTA MARIA JACATEPEC                    1953-01
+ 16.50   -94.44       60   20082    OAX  OSTUTA                                   1951-01
+ 15.68   -96.48       84   20092    OAX  PUERTO ANGEL (OBS)                       1970-07
+ 18.25   -96.40       40   20152    OAX  TEMASCAL                                 1957-01
+ 16.42   -95.60      200   20162    OAX  TEQUISISTLAN                             1951-01
+ 17.80   -97.76     1635   20298    OAX  HUAJUAPAN DE LEON (OBS)                  1962-08
+ 18.90   -98.13     2120   21016    PUE  BALCON DIABLO                            1951-01
+ 18.53   -98.58      929   21024    PUE  CHIETLA                                  1951-01
+ 19.71   -97.55     2650   21059    PUE  OYAMELES                                 1954-10
+ 18.20   -98.26     1110   21063    PUE  PIAXTLA                                  1951-01
+ 18.46   -97.39     1620   21083    PUE  TEHUACAN                                 1960-08
+ 19.83   -97.35     1961   21091    PUE  TEZIUTLAN                                1951-01
+ 20.19   -98.06     1480   21118    PUE  HUAUCHINANGO                             1954-01
+ 20.29   -97.96     1179   21127    PUE  XICOTEPEC DE JUAREZ                      1951-01
+ 20.50  -100.42     1881   22004    QRO  EL BATAN                                 1965-06
+ 20.52  -100.45     1826   22006    QRO  EL PUEBLITO                              1961-01
+ 21.22   -99.47      760   22007    QRO  JALPAN (DGE)                             1966-01
+ 20.42  -100.07     1925   22032    QRO  PRESA CONSTITUCION                       1973-02
+ 21.05   -99.80     1341   22057    QRO  PEÑAMILLER                               1982-12
+ 19.58   -88.05       22   23003   QROO  FELIPE CARRILLO PUERTO (DGE)             1952-08
+ 18.50   -88.33       26   23032   QROO  CHETUMAL (DGE)                           1952-08
+ 22.43  -100.28     1740   24008    SLP  CERRITOS                                 1962-05
+ 21.42   -98.88       82   24026    SLP  REQUETEMU                                1958-05
+ 21.98   -98.57       18   24036    SLP  LAS ADJUNTAS                             1961-01
+ 22.12   -99.17      310   24043    SLP  MICOS                                    1961-01
+ 21.65   -99.83      830   24054    SLP  PEDRO MONTOYA                            1966-01
+ 22.01   -99.05       70   24076    SLP  SANTA ROSA                               1961-01
+ 22.18  -100.94     1882   24081    SLP  SOLEDAD DE GRACIANO                      1951-01
+ 21.95  -100.00      987   24114    SLP  RIOVERDE (DGE)                           1961-01
+ 22.08   -98.81       22   24139    SLP  TAMUIN (DGE)                             1974-07
+ 24.10  -106.67      130   25001    SIN  ACATITAN                                 1961-01
+ 24.79  -107.40       60   25015    SIN  CULIACAN                                 1961-01
+ 26.42  -108.62       84   25023    SIN  EL FUERTE                                1955-01
+ 26.52  -108.60      125   25025    SIN  PRESA MIGUEL HIDALGO Y COSTILLA          1961-01
+ 23.56  -106.46       49   25031    SIN  EL QUELITE                               1961-01
+ 25.47  -108.09       50   25037    SIN  GUAMUCHIL                                1953-01
+ 25.34  -107.22      297   25041    SIN  GUATENIPA                                1964-01
+ 25.97  -109.30       10   25042    SIN  HIGUERA DE ZARAGOZA                      1962-03
+ 23.91  -106.90       14   25050    SIN  LA CRUZ                                  1969-01
+ 24.80  -107.16      113   25081    SIN  SANALONA II                              1951-01
+ 26.08  -108.76       70   25082    SIN  SAN BLAS                                 1961-01
+ 25.34  -107.54      187   25110    SIN  BADIRAGUATO (DGE)                        1960-01
+ 25.80  -109.04       14   25116    SIN  LOS MOCHIS                               1961-01
+ 23.34  -106.24       40   25119    SIN  SIQUEROS                                 1966-06
+ 23.10  -105.85       65   25150    SIN  LAS TORTUGAS                             1974-01
+ 31.33  -109.55     1210   26001    SON  AGUA PRIETA                              1961-02
+ 30.34  -110.17      836   26005    SON  ARIZPE                                   1961-04
+ 30.60  -110.24     1060   26007    SON  BACANUCHI                                1964-01
+ 30.00  -110.22      675   26008    SON  BANAMICHI                                1961-04
+ 27.48  -109.94       18   26018    SON  CIUDAD OBREGON (DGE)                     1961-01
+ 27.42  -109.63      106   26021    SON  COCORAQUE                                1969-04
+ 27.25  -109.06      144   26024    SON  PRESA ADOLFO RUIZ CORTINEZ (CORTINA)     1955-08
+ 28.63  -108.75     1279   26029    SON  EL CUBIL                                 1965-07
+ 29.23  -110.71      279   26032    SON  EL OREGANO                               1951-01
+ 30.78  -110.85      840   26045    SON  IMURIS                                   1951-01
+ 29.00  -110.14      544   26052    SON  MAZATAN                                  1961-01
+ 30.37  -109.69     1100   26059    SON  NACOZARI                                 1951-01
+ 27.07  -109.44       48   26061    SON  NAVOJOA                                  1955-06
+ 31.32  -110.95     1200   26062    SON  NOGALES (DGE)                            1963-10
+ 27.82  -109.89       87   26068    SON  PRESA ALVARO OBREGON                     1951-01
+ 30.44  -109.39      860   26069    SON  PRESA LA ANGOSTURA                       1951-01
+ 31.32  -113.54       10   26072    SON  PUERTO PEÑASCO                           1952-03
+ 28.44  -110.37      245   26073    SON  PUNTA DE AGUA I                          1957-07
+ 30.05  -111.02      661   26074    SON  QUEROBABI                                1958-11
+ 27.40  -108.84      214   26080    SON  SAN BERNARDO                             1951-01
+ 30.87  -111.52      628   26092    SON  PRESA CUAUHTEMOC                         1951-05
+ 30.70  -112.10      300   26093    SON  PITIQUITO                                1952-07
+ 31.86  -112.85      398   26096    SON  SONOITA                                  1951-04
+ 27.66  -109.21      291   26099    SON  TESOCOMA                                 1961-05
+ 28.37  -108.93     1552   26123    SON  YECORA (DGE)                             1967-01
+ 29.10  -110.95      221   26139    SON  HERMOSILLO                               1973-01
+ 29.47  -110.74      390   26180    SON  EL CAJON                                 1974-02
+ 29.53  -109.53      600   26202    SON  TEPACHE                                  1977-08
+ 30.36  -108.93     1038   26205    SON  BACERAC                                  1978-01
+ 30.73  -111.84      421   26206    SON  ALTAR (OBS)                              1961-01
+ 30.39  -111.45      558   26249    SON  SANTA ROSA                               1982-01
+ 17.44   -91.49       14   27004    TAB  BOCA DEL CERRO                           1951-01
+ 18.09   -92.14       14   27028    TAB  JONUTA                                   1951-01
+ 17.76   -92.61       68   27030    TAB  MACUSPANA (DGE)                          1951-01
+ 18.00   -93.28       19   27039    TAB  SAMARIA                                  1951-01
+ 17.79   -91.16       36   27040    TAB  SAN PEDRO                                1952-08
+ 17.46   -92.78       22   27042    TAB  TAPIJULAPA                               1962-03
+ 17.38   -92.75       36   27070    TAB  OXOLOTAN                                 1974-06
+ 22.99   -99.15       99   28002   TAMS  AHUALULCO                                1961-01
+ 24.08   -99.13     1666   28028   TAMS  EL BARRETAL I                            1951-01
+ 23.22   -99.08      360   28044   TAMS  LA ENCANTADA                             1951-08
+ 22.85   -99.12       94   28049   TAMS  LA SERVILLETA                            1961-01
+ 22.79   -98.72       40   28058   TAMS  MAGISCATZIN (DGE)                        1963-01
+ 24.57   -99.55      420   28059   TAMS  MAGUEYES                                 1963-10
+ 24.07   -98.74      154   28070   TAMS  PADILLA                                  1951-01
+ 23.73   -98.75      150   28074   TAMS  PASO DE MOLINA                           1962-01
+ 22.83   -99.02       60   28080   TAMS  RIO FRIO                                 1966-08
+ 23.02   -99.09      100   28083   TAMS  SABINAS                                  1966-02
+ 24.85   -98.16       46   28086   TAMS  SAN FERNANDO                             1951-01
+ 23.08   -98.79      135   28087   TAMS  SAN GABRIEL                              1961-01
+ 26.24   -98.62       40   28100   TAMS  S.J. 2-18 GUSTAVO DIAZ ORDAZ             1960-01
+ 25.87   -98.09       20   28104   TAMS  RIO BRAVO                                1960-01
+ 22.24   -97.88       40   28111   TAMS  TAMPICO                                  1961-01
+ 23.73   -99.15      350   28116   TAMS  CIUDAD VICTORIA (DGE)                    1951-01
+ 22.42   -98.42       12   28147   TAMS  TAMESI                                   1973-05
+ 23.77   -98.21       21   28152   TAMS  SOTO LA MARINA                           1974-08
+ 23.70   -98.20       50   28154   TAMS  REPUBLICA ESPAÑOLA                       1975-05
+ 22.78   -98.86       55   28405   TAMS  SACA DE AGUA                             1976-09
+ 26.19   -98.93      272   28900   TAMS  PRESA MARTE R. GOMEZ                     1951-01
+ 19.56   -98.20     2489   29003   TLAX  ATLANGA SAN JOSE                         1961-01
+ 19.32   -97.65     2170   29007   TLAX  EL CARMEN                                1966-03
+ 19.32   -97.91     2485   29011   TLAX  HUAMANTLA                                1951-02
+ 19.59   -98.56     2520   29035   TLAX  CALPULALPAN                              1951-01
+ 19.50   -96.61      250   30003    VER  ACTOPAN                                  1952-06
+ 20.93   -97.68       19   30006    VER  ALAMO                                    1965-07
+ 19.59   -96.78      730   30008    VER  ALTOTONGA                                1959-07
+ 18.60   -95.45       19   30011    VER  ANGEL R. CABADA                          1956-10
+ 18.08   -95.70       14   30013    VER  AZUETA                                   1951-01
+ 19.36   -96.66      250   30021    VER  EL CARRIZAL                              1967-06
+ 18.19   -96.09       29   30025    VER  CIUDAD ALEMAN                            1951-02
+ 21.78   -98.44       36   30049    VER  EL HIGO                                  1958-06
+ 21.83   -98.50       23   30051    VER  EL OLIVO                                 1968-07
+ 20.16   -96.72       10   30054    VER  EL RAUDAL                                1961-01
+ 19.07   -96.16       10   30056    VER  EL TEJAR                                 1961-01
+ 19.41   -96.52      100   30068    VER  LOS IDOLOS                               1963-05
+ 17.96   -94.72       46   30077    VER  JALTIPAN DE MORELOS                      1961-01
+ 17.42   -94.91       22   30090    VER  LAS PERLAS                               1962-09
+ 20.08   -97.06       50   30102    VER  MARTINEZ DE LA TORRE (DGE)               1954-12
+ 19.93   -96.86      410   30108    VER  MISANTLA                                 1951-01
+ 19.65   -96.87     1470   30114    VER  NAOLINCO DE VICTORIA                     1955-08
+ 20.45   -97.33      190   30125    VER  PAPANTLA                                 1952-01
+ 21.27   -98.37       57   30130    VER  PLATON SANCHEZ                           1960-05
+ 19.35   -96.56      313   30141    VER  RINCONADA                                1951-01
+ 17.88   -95.14       18   30147    VER  SAN JUAN EVANGELISTA (DGE)               1970-09
+ 18.27   -95.56       20   30152    VER  GARRO                                    1961-01
+ 17.87   -94.09       29   30167    VER  TANCOCHAPA                               1951-01
+ 21.52   -98.41       72   30176    VER  TEMPOAL DE SANCHEZ                       1960-01
+ 18.25   -95.36       13   30185    VER  LAUCHAPAN                                1951-01
+ 19.36   -96.37       28   30193    VER  JOSE CARDEL                              1951-01
+ 19.64   -97.11     2400   30211    VER  LAS VIGAS                                1951-01
+ 18.65   -95.53       10   30216    VER  NARANJAL                                 1958-08
+ 17.43   -95.02       22   30224    VER  JESUS CARRANZA                           1951-01
+ 22.06   -98.18       60   30285    VER  PANUCO (DGE)                             1975-04
+ 18.44   -95.18      300   30302    VER  SIHUAPAN                                 1976-04
+ 21.08   -89.28        7   31020    YUC  MOTUL                                    1952-08
+ 20.49   -89.71       29   31021    YUC  MUNA                                     1958-07
+ 20.12   -88.95       35   31022    YUC  PETO (DGE)                               1959-11
+ 21.59   -88.15        4   31024    YUC  RIO LAGARTOS                             1962-05
+ 21.15   -88.16       14   31034    YUC  TIZIMIN                                  1969/05
+ 21.11   -89.45       20   31056    YUC  MOCOCHA                                  1977/03
+ 20.29   -89.39       26   31061    YUC  OXCUTZCAB                                1977-01
+ 22.00  -102.89     1620   32013    ZAC  EL CHIQUE                                1961-01
+ 21.65  -103.34     1740   32019    ZAC  EXCAME                                   1951-01
+ 21.60  -103.34     1790   32032    ZAC  LA VILLITA                               1957-07
+ 24.32  -102.89     1680   32049    ZAC  SAN FRANCISCO (SMN)                      1951-01
+ 22.93  -103.11     2150   32053    ZAC  SANTA ROSA                               1951-01
+ 23.63  -103.64     2351   32054    ZAC  SOMBRERETE (DGE)                         1951-01
+ 22.10  -102.87     1549   32055    ZAC  TAYAHUA                                  1965-06
+ 22.76  -102.58     2485   32086    ZAC  ZACATECAS (DGE)                          1961-01
