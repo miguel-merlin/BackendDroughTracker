@@ -4,6 +4,6 @@ DroughTracker is a Machine Learning Algorithm designed to predict droughts using
 
 To install the required packages
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
